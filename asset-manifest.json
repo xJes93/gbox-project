@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gbox-project.netlify.app/static/css/main.b9b6c74c.css",
+    "main.js": "/gbox-project.netlify.app/static/js/main.3dac88a1.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/gbox-project.netlify.app/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/background.png": "/gbox-project.netlify.app/static/media/background.ad7f15105b59b20bea34.png",
+    "static/media/fa-solid-900.ttf": "/gbox-project.netlify.app/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/gbox-project.netlify.app/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/gbox-project.netlify.app/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/gbox-project.netlify.app/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/gbox-project.netlify.app/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/fa-regular-400.woff2": "/gbox-project.netlify.app/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/fa-v4compatibility.ttf": "/gbox-project.netlify.app/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/gbox-project.netlify.app/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/gbox-project.netlify.app/index.html",
+    "main.b9b6c74c.css.map": "/gbox-project.netlify.app/static/css/main.b9b6c74c.css.map",
+    "main.3dac88a1.js.map": "/gbox-project.netlify.app/static/js/main.3dac88a1.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/gbox-project.netlify.app/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9b6c74c.css",
+    "static/js/main.3dac88a1.js"
+  ]
+}
